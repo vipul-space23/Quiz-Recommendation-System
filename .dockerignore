@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+venv
+__pycache__/
+*.pyc
+
+# Ignore IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore git files if you are using version control
+.git/
+.gitignore
